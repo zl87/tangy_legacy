@@ -1,0 +1,8 @@
+prefix=/home/tangy-user/catkin_ws/devel
+
+Name: arm_navigation
+Description: Description of arm_navigation
+Version: 0.2.0
+Cflags: 
+Libs: -L/home/tangy-user/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "arm_navigation")
+set(arm_navigation_MAINTAINER "MoveIt Setup Assistant <assistant@moveit.ros.org>")
+set(arm_navigation_DEPRECATED "")
+set(arm_navigation_VERSION "0.2.0")
+set(arm_navigation_BUILD_DEPENDS )
+set(arm_navigation_RUN_DEPENDS "moveit_ros_move_group" "xacro")
+set(arm_navigation_BUILDTOOL_DEPENDS "catkin")

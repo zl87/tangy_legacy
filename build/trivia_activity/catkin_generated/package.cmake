@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "trivia_activity")
+set(trivia_activity_MAINTAINER "tangy-user <tangy-user@todo.todo>")
+set(trivia_activity_DEPRECATED "")
+set(trivia_activity_VERSION "0.0.0")
+set(trivia_activity_BUILD_DEPENDS "roscpp" "rospy" "roslib" "pluginlib" "std_msgs" "sql_database")
+set(trivia_activity_RUN_DEPENDS "roscpp" "roslib" "rospy" "pluginlib" "std_msgs" "sql_database")
+set(trivia_activity_BUILDTOOL_DEPENDS "catkin")

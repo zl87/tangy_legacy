@@ -1,0 +1,8 @@
+prefix=/home/tangy-user/catkin_ws/devel
+
+Name: trivia_activity
+Description: Description of trivia_activity
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tangy-user/catkin_ws/devel/lib -ltrivia_activity
+Requires: roscpp rospy std_msgs

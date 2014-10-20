@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tangy-user/catkin_ws/src/trivia_activity/src/trivia_question.cpp
+string
+-
+database_interface/db_class.h
+-
+
+/opt/ros/hydro/include/database_interface/db_class.h
+database_interface/db_field.h
+/opt/ros/hydro/include/database_interface/database_interface/db_field.h
+
+/opt/ros/hydro/include/database_interface/db_field.h
+stdio.h
+-
+vector
+-
+map
+-
+string
+-
+sstream
+-
+iostream
+-
+iomanip
+-
+boost/format.hpp
+-
+cstring
+-
+

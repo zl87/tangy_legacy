@@ -1,0 +1,2189 @@
+<?xml version="1.0"?>
+<general>
+	<trivia id="gen001">
+		<type>General</type>
+		<question>What's the capital of Canada?</question>
+		<ans>Ottawa</ans>
+		<alt1>Toronto</alt1>
+		<alt2>Montreal</alt2>
+		<alt3>Vancouver</alt3>
+	</trivia>
+	<trivia id="gen002">
+		<type>General</type>
+		<question>What Canadian airport was renamed for Pierre Trudeau?</question>
+		<ans>Dorval</ans>
+		<alt1>Toronto Island</alt1>
+		<alt2>Ottawa International</alt2>
+		<alt3>Mirabel</alt3>
+	</trivia>
+	<trivia id="gen003">
+		<type>General</type>
+		<question>Built by industrialist Henry Kaiser, the Grand Coulee Dam creates a reservoir called Franklin Delano Roosevelt Lake on what river in Washington State?</question>
+		<ans>Columbia</ans>
+		<alt1>Snake</alt1>
+		<alt2>Yakima</alt2>
+		<alt3>Colorado</alt3>
+	</trivia>
+	<trivia id="gen004">
+		<type>General</type>
+		<question>Where would you use some rands to get into Kruger National Park, home to 140 mammal species?</question>
+		<ans>South Africa</ans>
+		<alt1>Kenya</alt1>
+		<alt2>Uganda</alt2>
+		<alt3>Zimbabwe</alt3>
+	</trivia>
+	<trivia id="gen005">
+		<type>General</type>
+		<question>If you're taking a boat ride with Charon, where are you going?</question>
+		<ans>Hell</ans>
+		<alt1>Sparta</alt1>
+		<alt2>Atlantis</alt2>
+		<alt3>Moon</alt3>
+	</trivia>
+	<trivia id="gen006">
+		<type>General</type>
+		<question>Although Switzerland wasn't a UN member until 2002, which Swiss city has been the HQ for such UN agencies as the World Health Organization and the International Labor Organization?</question>
+		<ans>Geneva</ans>
+		<alt1>Zurich</alt1>
+		<alt2>Strasbourg</alt2>
+		<alt3>The Hague</alt3>
+	</trivia>
+	<trivia id="gen007">
+		<type>General</type>
+		<question>Named for a 19th-century feminist, what does the Lucy Stone League promote?</question>
+		<ans>Not changing your name when you marry</ans>
+		<alt1>Reproductive choice</alt1>
+		<alt2>Using the right to vote</alt2>
+		<alt3>Equal pay for equal work</alt3>
+	</trivia>
+	<trivia id="gen008">
+		<type>General</type>
+		<question>The Vespa motor scooter was named for its resemblance to what creature?</question>
+		<ans>Wasp</ans>
+		<alt1>Lion</alt1>
+		<alt2>Lizard</alt2>
+		<alt3>Poison ivy</alt3>
+	</trivia>
+	<trivia id="gen009">
+		<type>General</type>
+		<question>Seventeen years after her photo was taken by Steve McCurry in 1985, the greeneyed Afghan girl was discovered to be Sharbat Gula. On what magazine's cover did her photo appear?</question>
+		<ans>National Geographic</ans>
+		<alt1>Scientific American</alt1>
+		<alt2>Time</alt2>
+		<alt3>Life</alt3>
+	</trivia>
+	<trivia id="gen010">
+		<type>General</type>
+		<question>If you wear a green star, you are indicating that you speak what language?</question>
+		<ans>Esperanto</ans>
+		<alt1>Polari</alt1>
+		<alt2>Arabic</alt2>
+		<alt3>Klingon</alt3>
+	</trivia>
+	<trivia id="gen011">
+		<type>General</type>
+		<question>Their name notwithstanding, what is the largest member of the Delphinidae (dolphin) family?</question>
+		<ans>Killer whale</ans>
+		<alt1>Great white shark</alt1>
+		<alt2>Minke whale</alt2>
+		<alt3>Bottle-nosed dolphin</alt3>
+	</trivia>
+	<trivia id="gen012">
+		<type>General</type>
+		<question>What hair care product was named for the Massachusetts firefighter who hoped it would reverse his baldness?</question>
+		<ans>Breck</ans>
+		<alt1>L'Oreal</alt1>
+		<alt2>Clairol</alt2>
+		<alt3>Vidal Sassoon</alt3>
+	</trivia>
+	<trivia id="gen013">
+		<type>General</type>
+		<question>Only two months have two US federal holidays each. What are they?</question>
+		<ans>January and November</ans>
+		<alt1>May and September</alt1>
+		<alt2>September and November</alt2>
+		<alt3>January and May</alt3>
+	</trivia>
+	<trivia id="gen014">
+		<type>General</type>
+		<question>Triple-murderer Thomas James Holden topped what organization's first mostwanted list, which was issued on March 14, 1950?</question>
+		<ans>FBI</ans>
+		<alt1>Interpol</alt1>
+		<alt2>CIA</alt2>
+		<alt3>Scotland Yard</alt3>
+	</trivia>
+	<trivia id="gen015">
+		<type>General</type>
+		<question>Who is the only US president to resign from office?</question>
+		<ans>Richard Nixon</ans>
+		<alt1>James A. Garfield</alt1>
+		<alt2>Andrew Johnson</alt2>
+		<alt3>Bill Clinton</alt3>
+	</trivia>
+	<trivia id="gen016">
+		<type>General</type>
+		<question>What is the name of the clock-like device that musicians use to measure time?</question>
+		<ans>Metronome</ans>
+		<alt1>Actinometer</alt1>
+		<alt2>Tintometer</alt2>
+		<alt3>Pycnometer</alt3>
+	</trivia>
+		<trivia id="gen017">
+		<type>General</type>
+		<question> Hydrogen is the most abundant element in the universe. What is the second?</question>
+		<ans>Helium</ans>
+		<alt1>Oxygen</alt1>
+		<alt2>Carbon</alt2>
+		<alt3>Nitrogen</alt3>
+	</trivia>
+	<trivia id="gen018">
+		<type>General</type>
+		<question> In geometry, how many sides does a "nonagon" have?</question>
+		<ans>Nine</ans>
+		<alt1>Eleven</alt1>
+		<alt2>Five</alt2>
+		<alt3>Seven</alt3>
+	</trivia>
+	<trivia id="gen019">
+		<type>General</type>
+		<question> Cult leader of "The People's Temple," who convinced hundreds of his followers to commit suicide in Guyana in 1978?</question>
+		<ans>Jim Jones</ans>
+		<alt1>David Koresh</alt1>
+		<alt2>Charles Manson</alt2>
+		<alt3>Marshall Applewhite</alt3>
+	</trivia>
+	<trivia id="gen020">
+		<type>General</type>
+		<question> At 3.86 miles squared, Imrali is the smallest island in the Mediterranean Sea. What is the largest?</question>
+		<ans>Sicily</ans>
+		<alt1>Sardinia</alt1>
+		<alt2>Cyprus</alt2>
+		<alt3>Corsica</alt3>
+	</trivia>
+	<trivia id="gen021">
+		<type>General</type>
+		<question> What Austrian neurologist is considered the founding father of psychoanalysis?</question>
+		<ans>Sigmund Freud</ans>
+		<alt1>Joseph Campbell</alt1>
+		<alt2>Herbert Silberer</alt2>
+		<alt3>Carl Jung</alt3>
+	</trivia>
+	<trivia id="gen022">
+		<type>General</type>
+		<question> Originally a member of the band "The Police," which rock star was born Gordon Sumner?</question>
+		<ans>Sting</ans>
+		<alt1>Alice Cooper</alt1>
+		<alt2>Slash</alt2>
+		<alt3>Meat Loaf</alt3>
+	</trivia>
+	<trivia id="gen023">
+		<type>General</type>
+		<question> Which 1968 musical film stars Dick Van Dyke as Caractacus Potts and Sally Ann Howes as Truly Scrumptious?</question>
+		<ans>Chitty Chitty Bang Bang</ans>
+		<alt1>Bedknobs and Broomsticks</alt1>
+		<alt2>The Sound of Music</alt2>
+		<alt3>Mary Poppins</alt3>
+	</trivia>
+	<trivia id="gen024">
+		<type>General</type>
+		<question> If while vacationing in Italy, you were served a dish named "Pesce Spada", what would you be eating?</question>
+		<ans>Swordfish</ans>
+		<alt1>Ell</alt1>
+		<alt2>Ants</alt2>
+		<alt3>Cat</alt3>
+	</trivia>
+	<trivia id="gen025">
+		<type>General</type>
+		<question> Which capital city was originally founded by Pedro De Valdivia after he defeated a large force of Indians on the banks of the Rio Mapocho in 1541?</question>
+		<ans>Santiago</ans>
+		<alt1>Lima</alt1>
+		<alt2>La Paz</alt2>
+		<alt3>Brazillia</alt3>
+	</trivia>
+	<trivia id="gen026">
+		<type>General</type>
+		<question> Written sometime around 1500, which Shakespearean comedy is set in the "Forest Of Arden"?</question>
+		<ans>As You Like It</ans>
+		<alt1>The Comedy of Errors</alt1>
+		<alt2>The Taming of the Shrew</alt2>
+		<alt3>Much Ado About Nothing</alt3>
+	</trivia>
+	<trivia id="gen027">
+		<type>General</type>
+		<question> According to his song "American Pie", what type of car did Don Mclean drive to the levy?</question>
+		<ans>Chevy</ans>
+		<alt1>Volvo</alt1>
+		<alt2>Dodge</alt2>
+		<alt3>Ford</alt3>
+	</trivia>
+	<trivia id="gen028">
+		<type>General</type>
+		<question> Based in Sunrise, Florida, what sport is played by the Florida Panthers?</question>
+		<ans>Ice Hockey</ans>
+		<alt1>Basketball</alt1>
+		<alt2>Soccer</alt2>
+		<alt3>Baseball</alt3>
+	</trivia>
+	<trivia id="gen029">
+		<type>General</type>
+		<question> Featured in the 1986 movie "Top Gun", who recorded the song "Danger Zone"?</question>
+		<ans>Kenny Loggins</ans>
+		<alt1>Dan Fogelberg</alt1>
+		<alt2>Kenny Rogers</alt2>
+		<alt3>Daryl Hall</alt3>
+	</trivia>
+	<trivia id="gen030">
+		<type>General</type>
+		<question> Who played the role of the extremely naive and guileless assistant bartender Woody Boyd on the TV sitcom "Cheers"?</question>
+		<ans>Woody Harrelson</ans>
+		<alt1>John Ratzenberger</alt1>
+		<alt2>Ted Danson</alt2>
+		<alt3>George Wendt</alt3>
+	</trivia>
+	<trivia id="gen031">
+		<type>General</type>
+		<question> Believed to be the god of rain, which of the following is one of the most famous dragons in Chinese mythology?</question>
+		<ans>Yinglong</ans>
+		<alt1>Jie</alt1>
+		<alt2>Zhuanxu</alt2>
+		<alt3>Dizang</alt3>
+	</trivia>
+		<trivia id="gen032">
+		<type>General</type>
+		<question> One of music's earliest superstars, what nationality was the romantic-era composer Frederic Chopin?</question>
+		<ans>Polish</ans>
+		<alt1>Russian</alt1>
+		<alt2>English</alt2>
+		<alt3>German</alt3>
+	</trivia>
+	<trivia id="gen033">
+		<type>General</type>
+		<question> Located in Japan, what is the first city in history to have an atomic bomb dropped onto it?</question>
+		<ans>Hiroshima</ans>
+		<alt1>Tokyo</alt1>
+		<alt2>Osaka</alt2>
+		<alt3>Nagasaki</alt3>
+	</trivia>
+	<trivia id="gen034">
+		<type>General</type>
+		<question> Released in 1988, who is the main actor in the romantic drama film "Cocktail"?</question>
+		<ans>Tom Cruise</ans>
+		<alt1>Leonardo DiCaprio</alt1>
+		<alt2>Brad Pitt</alt2>
+		<alt3>Tom Hanks</alt3>
+	</trivia>
+	<trivia id="gen035">
+		<type>General</type>
+		<question> Who is generally credited with inventing the hot-air balloon?</question>
+		<ans>Montgolfier Brothers</ans>
+		<alt1>Karl Benz</alt1>
+		<alt2>Richard Pearse</alt2>
+		<alt3>Wright Brothers</alt3>
+	</trivia>
+	<trivia id="gen036">
+		<type>General</type>
+		<question> The fourth astrological sign, what star sign has a crab for its symbol?</question>
+		<ans>Cancer</ans>
+		<alt1>Capricorn</alt1>
+		<alt2>Taurus</alt2>
+		<alt3>Sagittarius</alt3>
+	</trivia>
+	<trivia id="gen037">
+		<type>General</type>
+		<question> How many lanes does a standard Olympic swimming pool have?</question>
+		<ans>8</ans>
+		<alt1>10</alt1>
+		<alt2>6</alt2>
+		<alt3>4</alt3>
+	</trivia>
+	<trivia id="gen038">
+		<type>General</type>
+		<question> Which fast-food restaurant chain was established by Ray Kroc?</question>
+		<ans>McDonald's</ans>
+		<alt1>Kentucky Fried Chicken</alt1>
+		<alt2>Wendy's</alt2>
+		<alt3>Taco Bell</alt3>
+	</trivia>
+	<trivia id="gen039">
+		<type>General</type>
+		<question> Born in the Shakya Republic, by what other name is Siddartha Gautama known?</question>
+		<ans>Buddha</ans>
+		<alt1>Confucius</alt1>
+		<alt2>Ashoka</alt2>
+		<alt3>Nichiren</alt3>
+	</trivia>
+	<trivia id="gen040">
+		<type>General</type>
+		<question> Where was the Italian explorer, navigator and colonizer, Christopher Columbus born?</question>
+		<ans>Genoa</ans>
+		<alt1>Rome</alt1>
+		<alt2>Naples</alt2>
+		<alt3>Florence</alt3>
+	</trivia>
+	<trivia id="gen041">
+		<type>General</type>
+		<question> Home to over a hundred statues, monuments and fountains, where are the Luxembourg Gardens?</question>
+		<ans>Paris</ans>
+		<alt1>Rome</alt1>
+		<alt2>London</alt2>
+		<alt3>Berlin</alt3>
+	</trivia>
+	<trivia id="gen042">
+		<type>General</type>
+		<question> Alfred Hitchcock was nominated for a Best Director Oscar five times in his career. How many Oscars did he win?</question>
+		<ans>0</ans>
+		<alt1>4</alt1>
+		<alt2>5</alt2>
+		<alt3>2</alt3>
+	</trivia>
+	<trivia id="gen043">
+		<type>General</type>
+		<question> Released in October 2002, which American rock band had a huge hit with the song "When I'm Gone"?</question>
+		<ans>3 Doors Down</ans>
+		<alt1>Nickelback</alt1>
+		<alt2>Puddle of Mudd</alt2>
+		<alt3>Three Days Grace</alt3>
+	</trivia>
+	<trivia id="gen044">
+		<type>General</type>
+		<question> In what language does "obrigado" mean "thank you"?</question>
+		<ans>Portuguese</ans>
+		<alt1>Vietnamese</alt1>
+		<alt2>Spanish</alt2>
+		<alt3>Dutch</alt3>
+	</trivia>
+	<trivia id="gen045">
+		<type>General</type>
+		<question> As a result of the "Case-Church Amendment" passed by the U.S. Congress, direct U.S. military involvement in the Vietnam War ended in what year?</question>
+		<ans>1973</ans>
+		<alt1>1969</alt1>
+		<alt2>1975</alt2>
+		<alt3>1971</alt3>
+	</trivia>
+	<trivia id="gen046">
+		<type>General</type>
+		<question> Which country won gold in the sport of ice hockey at the 2014 Winter Olympic Games?</question>
+		<ans>Canada</ans>
+		<alt1>Japan</alt1>
+		<alt2>USA</alt2>
+		<alt3>Sweden</alt3>
+	</trivia>
+		<trivia id="gen047">
+		<type>General</type>
+		<question> Which strait can be found between the North and South islands of New Zealand?</question>
+		<ans>Cook Strait</ans>
+		<alt1>Bass Strait</alt1>
+		<alt2>San Juanico Strait</alt2>
+		<alt3>Davis Strait</alt3>
+	</trivia>
+	<trivia id="gen048">
+		<type>General</type>
+		<question> Written and directed by Michael Mann, who stars as Lt. Vincent Hanna in the 1995 film "Heat"?</question>
+		<ans>Al Pacino</ans>
+		<alt1>Robert De Niro</alt1>
+		<alt2>Val Kilmer</alt2>
+		<alt3>Jon Voight</alt3>
+	</trivia>
+	<trivia id="gen049">
+		<type>General</type>
+		<question> Published in 1977, who wrote the best-selling novel "The Thorn Birds"?</question>
+		<ans>Colleen McCullough</ans>
+		<alt1>Gertrude Atherton</alt1>
+		<alt2>Ethel Anderson</alt2>
+		<alt3>Kathy Acker</alt3>
+	</trivia>
+	<trivia id="gen050">
+		<type>General</type>
+		<question> What is the capital of the Socialist Republic of Vietnam?</question>
+		<ans>Ha Noi</ans>
+		<alt1>Nha Trang</alt1>
+		<alt2>Ho Chi Minh City</alt2>
+		<alt3>Hanoi</alt3>
+	</trivia>
+	<trivia id="gen051">
+		<type>General</type>
+		<question> Old-time film actress Yvonne de Carlo played which role in the Munsters TV series?</question>
+		<ans>Lily Munster</ans>
+		<alt1>Miss Hazlett</alt1>
+		<alt2>Momma</alt2>
+		<alt3>Marilyn Munster</alt3>
+	</trivia>
+	<trivia id="gen052">
+		<type>General</type>
+		<question> Michael Nesmith was a member of which 1960s pop group?</question>
+		<ans>The Monkees</ans>
+		<alt1>The Beach Boys</alt1>
+		<alt2>The Partridge Family</alt2>
+		<alt3>The Archies</alt3>
+	</trivia>
+	<trivia id="gen053">
+		<type>General</type>
+		<question> Based on a novel by Stephen King, which Stanley Kubrick film starred Jack Nicholson?</question>
+		<ans>The Shining</ans>
+		<alt1>The Stand</alt1>
+		<alt2>Carrie</alt2>
+		<alt3>The Shawshank Redemption</alt3>
+	</trivia>
+	<trivia id="gen054">
+		<type>General</type>
+		<question> Possibly dating back to ancient Mesopotamia, which dessert consists of thin layers of filo pastry filled with nuts and honey?</question>
+		<ans>Baklava</ans>
+		<alt1>Moussaka</alt1>
+		<alt2>Kanafeh</alt2>
+		<alt3>Turkish Delight</alt3>
+	</trivia>
+	<trivia id="gen055">
+		<type>General</type>
+		<question> What is the British English word for a truck?</question>
+		<ans>Lorry</ans>
+		<alt1>Loo</alt1>
+		<alt2>Panda Car</alt2>
+		<alt3>Lurgi</alt3>
+	</trivia>
+	<trivia id="gen056">
+		<type>General</type>
+		<question> In which American cartoon series would you find the characters Kenny McCormick and Stan Marsh?</question>
+		<ans>South Park</ans>
+		<alt1>Family Guy</alt1>
+		<alt2>The Simpsons</alt2>
+		<alt3>King of the Hill</alt3>
+	</trivia>
+	<trivia id="gen057">
+		<type>General</type>
+		<question> Who was the youngest member of the Beatles?</question>
+		<ans>George Harrison</ans>
+		<alt1>Paul McCartney</alt1>
+		<alt2>Ringo Starr</alt2>
+		<alt3>John Lennon</alt3>
+	</trivia>
+	<trivia id="gen058">
+		<type>General</type>
+		<question> What is the colour of the ball worth five points in a game of snooker?</question>
+		<ans>Blue</ans>
+		<alt1>Yellow</alt1>
+		<alt2>Green</alt2>
+		<alt3>Pink</alt3>
+	</trivia>
+	<trivia id="gen059">
+		<type>General</type>
+		<question> In which country is the port of Busan?</question>
+		<ans>South Korea</ans>
+		<alt1>France</alt1>
+		<alt2>England</alt2>
+		<alt3>China</alt3>
+	</trivia>
+	<trivia id="gen060">
+		<type>General</type>
+		<question> Which Canadian comedian teamed with Dan Aykroyd to form the Blues Brothers?</question>
+		<ans>John Belushi</ans>
+		<alt1>John Candy</alt1>
+		<alt2>Mike Myers</alt2>
+		<alt3>Martin Short</alt3>
+	</trivia>
+	<trivia id="gen061">
+		<type>General</type>
+		<question> The 1952 Winter Olympic Games were held in which city?</question>
+		<ans>Oslo</ans>
+		<alt1>Lillehammer</alt1>
+		<alt2>Squaw Valley</alt2>
+		<alt3>Calgary</alt3>
+	</trivia>
+	<trivia id="gen062">
+		<type>General</type>
+		<question> Which of the following songs was recorded by Elvis Presley?</question>
+		<ans>Jailhouse Rock</ans>
+		<alt1>Good Golly, Miss Molly</alt1>
+		<alt2>The Sounds of Silence</alt2>
+		<alt3>(Sittin' on) The Dock of the Bay</alt3>
+	</trivia>
+	<trivia id="gen063">
+		<type>General</type>
+		<question> How many primary apostles did Jesus have?</question>
+		<ans>12</ans>
+		<alt1>6</alt1>
+		<alt2>10</alt2>
+		<alt3>8</alt3>
+	</trivia>
+	<trivia id="gen064">
+		<type>General</type>
+		<question> What type of currency is currently being used in the United Kingdom (2014)?</question>
+		<ans>Pound</ans>
+		<alt1>Euro</alt1>
+		<alt2>Ruble</alt2>
+		<alt3>Dollar</alt3>
+	</trivia>
+	<trivia id="gen065">
+		<type>General</type>
+		<question> "Robinson Crusoe" is the story of a castaway who spends years on a remote tropical
+islan Who wrote the classic novel?</question>
+		<ans>Daniel Defoe</ans>
+		<alt1>F. Scott Fitzgerald</alt1>
+		<alt2>William Golding</alt2>
+		<alt3>Alexandre Dumas</alt3>
+	</trivia>
+	<trivia id="gen066">
+		<type>General</type>
+		<question> By issuing the Declaration of Independence, how many American Colonies originally broke from British rule in 1776?</question>
+		<ans>13</ans>
+		<alt1>16</alt1>
+		<alt2>22</alt2>
+		<alt3>19</alt3>
+	</trivia>
+	<trivia id="gen067">
+		<type>General</type>
+		<question> What is the national sport of Canada?</question>
+		<ans>Ice Hockey</ans>
+		<alt1>Football</alt1>
+		<alt2>Basketball</alt2>
+		<alt3>Baseball</alt3>
+	</trivia>
+	<trivia id="gen068">
+		<type>General</type>
+		<question> What early well-known rock classic begins with the lyrics, "Deep down in Louisiana close to New Orleans, way back up in the woods among the evergreens"?</question>
+		<ans>Johnny B. Goode</ans>
+		<alt1>That'll be the Day</alt1>
+		<alt2>The Twist</alt2>
+		<alt3>Blue Suede Shoes</alt3>
+	</trivia>
+	<trivia id="gen069">
+		<type>General</type>
+		<question> For two players, which of the following games is played on a 10×10 square board with 40 game pieces per side?</question>
+		<ans>Stratego</ans>
+		<alt1>Chinese Checkers</alt1>
+		<alt2>Checkers</alt2>
+		<alt3>Risk</alt3>
+	</trivia>
+	<trivia id="gen070">
+		<type>General</type>
+		<question> To bake a basic loaf of homemade bread, you would require flour, water, salt and what other essential ingredient?</question>
+		<ans>Yeast</ans>
+		<alt1>Butter</alt1>
+		<alt2>Eggs</alt2>
+		<alt3>Milk</alt3>
+	</trivia>
+	<trivia id="gen071">
+		<type>General</type>
+		<question> Which country was the first to put a man in space?</question>
+		<ans>Russia</ans>
+		<alt1>China</alt1>
+		<alt2>USA</alt2>
+		<alt3>Germany</alt3>
+	</trivia>
+	<trivia id="gen072">
+		<type>General</type>
+		<question> Which of the following auto parts is part of an automobile's ignition system?</question>
+		<ans>Distributor</ans>
+		<alt1>Radiator</alt1>
+		<alt2>Antenna</alt2>
+		<alt3>Alternator</alt3>
+	</trivia>
+	<trivia id="gen073">
+		<type>General</type>
+		<question> On which continent is the country of Afghanistan located?</question>
+		<ans>Asia</ans>
+		<alt1>Australia</alt1>
+		<alt2>Africa</alt2>
+		<alt3>South America</alt3>
+	</trivia>
+	<trivia id="gen074">
+		<type>General</type>
+		<question> Pochard, Pintail and Shoveler are all varieties of which animal?</question>
+		<ans>Duck</ans>
+		<alt1>Cat</alt1>
+		<alt2>Fish</alt2>
+		<alt3>Dog</alt3>
+	</trivia>
+	<trivia id="gen075">
+		<type>General</type>
+		<question> A German World War I celebrity, by what name was Manfred von Richthofen better known as?</question>
+		<ans>The Red Baron</ans>
+		<alt1>The Iron Cross</alt1>
+		<alt2>The Blue Max</alt2>
+		<alt3>The Black Ace</alt3>
+	</trivia>
+	<trivia id="gen076">
+		<type>General</type>
+		<question> On the popular fantasy drama "The Game of Thrones," who plays the role of Tyrion Lannistern?</question>
+		<ans>Peter Dinklage</ans>
+		<alt1>Mel Gibson</alt1>
+		<alt2>Rory McCann</alt2>
+		<alt3>Alfie Allen</alt3>
+	</trivia>
+	<trivia id="gen077">
+		<type>General</type>
+		<question>Seen a lot in the news as of late, Kiev is the capital of what country?</question>
+		<ans>Ukraine</ans>
+		<alt1>Germany</alt1>
+		<alt2>Russia</alt2>
+		<alt3>Argentina</alt3>
+	</trivia>
+	<trivia id="gen078">
+		<type>General</type>
+		<question> Whom did John Bellingham assassinate by shooting them in the heart?</question>
+		<ans>Spencer Perceval</ans>
+		<alt1>Abraham Lincoln</alt1>
+		<alt2>John F. Kennedy</alt2>
+		<alt3>Louis Mountbatten</alt3>
+	</trivia>
+	<trivia id="gen079">
+		<type>General</type>
+		<question> Which organ secretes insulin?</question>
+		<ans>Pancreas</ans>
+		<alt1>Kidney</alt1>
+		<alt2>Colon</alt2>
+		<alt3>Lungs
+	<trivia id="gen080">
+		<type>General</type>
+		<question> A vehicle capable of travelling over land, water and many other land surfaces, who invented the hovercraft?</question>
+		<ans>Christopher Cockerell</ans>
+		<alt1>George Ballas</alt1>
+		<alt2>Thomas Edison</alt2>
+		<alt3>Roger Bacon</alt3>
+	</trivia>
+	<trivia id="gen081">
+		<type>General</type>
+		<question> What is a menorah?</question>
+		<ans>A candelabrum</ans>
+		<alt1>A type of dog</alt1>
+		<alt2>A wood working tool</alt2>
+		<alt3>A flower</alt3>
+	</trivia>
+	<trivia id="gen082">
+		<type>General</type>
+		<question> What is the largest bone in the human body?</question>
+		<ans>Femur</ans>
+		<alt1>Clavicle</alt1>
+		<alt2>Tibia</alt2>
+		<alt3>Scapula</alt3>
+	</trivia>
+	<trivia id="gen083">
+		<type>General</type>
+		<question> Adopted in 1370 or earlier, which nation has the oldest flag?</question>
+		<ans>Denmark</ans>
+		<alt1>England</alt1>
+		<alt2>India</alt2>
+		<alt3>China</alt3>
+	</trivia>
+	<trivia id="gen084">
+		<type>General</type>
+		<question> Included in TIME magazine's list of the "All-TIME 100 Songs," which band released the hit song "Baba O'Riley"?</question>
+		<ans>The Who</ans>
+		<alt1>Pink Floyd</alt1>
+		<alt2>Lynyrd Skynyrd</alt2>
+		<alt3>The Steve Miller Band</alt3>
+	</trivia>
+	<trivia id="gen085">
+		<type>General</type>
+		<question> On the animated TV sitcom the Simpsons, how many children do the Simpsons have?</question>
+		<ans>3</ans>
+		<alt1>7</alt1>
+		<alt2>1</alt2>
+		<alt3>5</alt3>
+	</trivia>
+	<trivia id="gen086">
+		<type>General</type>
+		<question> Playing for the NFL Cleveland Browns from 1957 to 1965, which running back starred in the movie "The Dirty Dozen" playing the part of Robert Jefferson?</question>
+		<ans>Jim Brown</ans>
+		<alt1>Mike James</alt1>
+		<alt2>Dion Lewis</alt2>
+		<alt3>Joe Banyard</alt3>
+	</trivia>
+	<trivia id="gen087">
+		<type>General</type>
+		<question> Which of the following letters cannot be found in any of the 50 U.S. state names?</question>
+		<ans>Q</ans>
+		<alt1>X</alt1>
+		<alt2>Z</alt2>
+		<alt3>W</alt3>
+	</trivia>
+	<trivia id="gen088">
+		<type>General</type>
+		<question> What famous event took place at a farm owned by Max Yasgur?</question>
+		<ans>Woodstock</ans>
+		<alt1>First flight of Wright Brothers</alt1>
+		<alt2>The last duel in the United States</alt2>
+		<alt3>The first Pony Express</alt3>
+	</trivia>
+	<trivia id="gen089">
+		<type>General</type>
+		<question> How many colors were in the very first box of Crayola crayons?</question>
+		<ans>8</ans>
+		<alt1>20</alt1>
+		<alt2>12</alt2>
+		<alt3>24</alt3>
+	</trivia>
+	<trivia id="gen090">
+		<type>General</type>
+		<question> The Posse were wide receivers for which NFL team?</question>
+		<ans>The Redskins</ans>
+		<alt1>The Browns</alt1>
+		<alt2>The Falcons</alt2>
+		<alt3>The Packers</alt3>
+	</trivia>
+	<trivia id="gen091">
+		<type>General</type>
+		<question> The element stibium, with symbol and atomic number 51, is also known as?</question>
+		<ans>Antimony</ans>
+		<alt1>Cadmium</alt1>
+		<alt2>Caesium</alt2>
+		<alt3>Tin</alt3>
+	</trivia>
+	<trivia id="gen092">
+		<type>General</type>
+		<question> Who once wore a white polyester tuxedo that was later sold for approximately $145,000 in 1995?</question>
+		<ans>John Travolta</ans>
+		<alt1>George Bush</alt1>
+		<alt2>King Charles</alt2>
+		<alt3>Elvis Presley</alt3>
+	</trivia>
+	<trivia id="gen093">
+		<type>General</type>
+		<question> Who was the American mathematician and serial murderer named by the media as the "Unabomber"?</question>
+		<ans>Ted Kaczynski</ans>
+		<alt1>Eric Robert Rudolph</alt1>
+		<alt2>Luke Helder</alt2>
+		<alt3>George Metesky</alt3>
+	</trivia>
+	<trivia id="gen094">
+		<type>General</type>
+		<question> On which show would you see the characters Derek Morgan and Spencer Reid?</question>
+		<ans>Criminal Minds</ans>
+		<alt1>JAG</alt1>
+		<alt2>MASH</alt2>
+		<alt3>NCIS</alt3>
+	</trivia>
+	<trivia id="gen095">
+		<type>General</type>
+		<question> As of April 2014, who was the leader of Russia?</question>
+		<ans>Vladimir Putin</ans>
+		<alt1>Boris Yeltsin</alt1>
+		<alt2>Dmitry Medvedev</alt2>
+		<alt3>Sergey Lavrov</alt3>
+	</trivia>
+	<trivia id="gen096">
+		<type>General</type>
+		<question> Whom does Mandy Patinkin play on the TV show "Homeland"?</question>
+		<ans>Saul Berenson</ans>
+		<alt1>Jason Gideon</alt1>
+		<alt2>Jeffery Geiger</alt2>
+		<alt3>Rube Sofer</alt3>
+	</trivia>
+	<trivia id="gen097">
+		<type>General</type>
+		<question> Which city is home to the Maple Leaf's hockey team?</question>
+		<ans>Toronto</ans>
+		<alt1>Ottawa</alt1>
+		<alt2>Calgary</alt2>
+		<alt3>Vancouver</alt3>
+	</trivia>
+	<trivia id="gen098">
+		<type>General</type>
+		<question> According to the Chinese Zodiac, what year is 2014?</question>
+		<ans>The horse</ans>
+		<alt1>The dragon</alt1>
+		<alt2>The monkey</alt2>
+		<alt3>The snake</alt3>
+	</trivia>
+	<trivia id="gen099">
+		<type>General</type>
+		<question> According to the Guinness Book of World Records (2014), which nation holds the record for hosting the largest fireworks display?</question>
+		<ans>Dubai</ans>
+		<alt1>Japan</alt1>
+		<alt2>China</alt2>
+		<alt3>United States</alt3>
+	</trivia>
+	<trivia id="gen100">
+		<type>General</type>
+		<question> Which politician was caught fooling around on a boat ironically named "The Monkey Business" in 1987?</question>
+		<ans>Gary Hart</ans>
+		<alt1>Gerry Studds</alt1>
+		<alt2>Brock Adams</alt2>
+		<alt3>Bill Clinton</alt3>
+	</trivia>
+	<trivia id="gen101">
+		<type>General</type>
+		<question> Which chocolate bar shares its old slogan "Gimme a Break" with the name of a 1980s TV sitcom?</question>
+		<ans>Kit Kat</ans>
+		<alt1>Snickers</alt1>
+		<alt2>Twix</alt2>
+		<alt3>Milky Way</alt3>
+	</trivia>
+	<trivia id="gen102">
+		<type>General</type>
+		<question> Which ocean ranks as the smallest in size?</question>
+		<ans>Arctic</ans>
+		<alt1>Pacific</alt1>
+		<alt2>Indian</alt2>
+		<alt3>Atlantic</alt3>
+	</trivia>
+	<trivia id="gen103">
+		<type>General</type>
+		<question> If you started walking the Appalachian Trail in Maine and completed it, where would you end up?</question>
+		<ans>Georgia</ans>
+		<alt1>Colorad</alt1>
+		<alt2>Idaho</alt2>
+		<alt3>New Mexico</alt3>
+	</trivia>
+	<trivia id="gen104">
+		<type>General</type>
+		<question> The rapper Eminem appeared in which of these films?</question>
+		<ans>8 mile</ans>
+		<alt1>Lethal Weapon</alt1>
+		<alt2>The Green Mile</alt2>
+		<alt3>Slapshot</alt3>
+	</trivia>
+	<trivia id="gen105">
+		<type>General</type>
+		<question> Ellen DeGeneres hosted the 86th Academy Awards in 2014 for the second time. In what year did she make her first appearance as host?</question>
+		<ans>2007</ans>
+		<alt1>2009</alt1>
+		<alt2>2011</alt2>
+		<alt3>2005</alt3>
+	</trivia>
+		<trivia id="gen106">
+		<type>General</type>
+		<question> If you wanted to win the King's Cup, what sport would you have to compete in?</question>
+		<ans>Rowing</ans>
+		<alt1>Polo</alt1>
+		<alt2>Curling</alt2>
+		<alt3>Golf</alt3>
+	</trivia>
+	<trivia id="gen107">
+		<type>General</type>
+		<question> In the game of golf, what is the correct term for one under par?</question>
+		<ans>Birdie</ans>
+		<alt1>Duck</alt1>
+		<alt2>Falcon</alt2>
+		<alt3>Eagle</alt3>
+	</trivia>
+	<trivia id="gen108">
+		<type>General</type>
+		<question> Whom did Charles Bronson play in the movie "Death Wish"?</question>
+		<ans>Paul Kersey</ans>
+		<alt1>Leo Kessler</alt1>
+		<alt2>Jeb Maynard</alt2>
+		<alt3>Nick Colton</alt3>
+	</trivia>
+	<trivia id="gen109">
+		<type>General</type>
+		<question> Which of these strokes is not part of a swimming medley?</question>
+		<ans>Side stroke</ans>
+		<alt1>Backstroke</alt1>
+		<alt2>Butterfly</alt2>
+		<alt3>Breaststroke</alt3>
+	</trivia>
+	<trivia id="gen110">
+		<type>General</type>
+		<question> What is the chemical symbol for silicon?</question>
+		<ans>Si</ans>
+		<alt1>Su</alt1>
+		<alt2>Sc</alt2>
+		<alt3>S</alt3>
+	</trivia>
+	<trivia id="gen111">
+		<type>General</type>
+		<question> Which of these films is about bobsledding?</question>
+		<ans>Cool Runnings</ans>
+		<alt1>The Cutting Edge</alt1>
+		<alt2>Mystery, Alaska</alt2>
+		<alt3>The Mighty Ducks</alt3>
+	</trivia>
+	<trivia id="gen112">
+		<type>General</type>
+		<question> In the hit show "American Dad," what is the name of the Alien?</question>
+		<ans>Roger</ans>
+		<alt1>Bobby</alt1>
+		<alt2>Mark</alt2>
+		<alt3>George</alt3>
+	</trivia>
+	<trivia id="gen113">
+		<type>General</type>
+		<question> Charlie Watts and Ronnie Wood are members of which band?</question>
+		<ans>The Rolling Stones</ans>
+		<alt1>The Bare Naked Ladie</alt1>
+		<alt2>Nickelback</alt2>
+		<alt3>ACDC</alt3>
+	</trivia>
+	<trivia id="gen114">
+		<type>General</type>
+		<question> As of 2014, which city had the largest population?</question>
+		<ans>Tokyo</ans>
+		<alt1>Seoul</alt1>
+		<alt2>Jakarta</alt2>
+		<alt3>Guangzhou</alt3>
+	</trivia>
+	<trivia id="gen115">
+		<type>General</type>
+		<question> What is the proper term for a judge's hammer?</question>
+		<ans>Gavel</ans>
+		<alt1>Ball Peen</alt1>
+		<alt2>Sledge</alt2>
+		<alt3>Mallet</alt3>
+	</trivia>
+	<trivia id="gen116">
+		<type>General</type>
+		<question> What sport did Ian Thorpe compete in at the Sydney Olympics?</question>
+		<ans>Swimming</ans>
+		<alt1>Archery</alt1>
+		<alt2>Boxing</alt2>
+		<alt3>Decathlon</alt3>
+	</trivia>
+	<trivia id="gen117">
+		<type>General</type>
+		<question> Which of these famous people said, "It was a wise man who invented beer"?</question>
+		<ans>Plato</ans>
+		<alt1>W. C. Fields</alt1>
+		<alt2>Pope John Paul I</alt2>
+		<alt3>Benjamin Franklin</alt3>
+	</trivia>
+	<trivia id="gen118">
+		<type>General</type>
+		<question> Who is the heroine in the game Tomb Raider?</question>
+		<ans>Lara Croft</ans>
+		<alt1>Rayne</alt1>
+		<alt2>Lilith</alt2>
+		<alt3>Jennifer Tate</alt3>
+	</trivia>
+	<trivia id="gen119">
+		<type>General</type>
+		<question> In which country is the "Forbidden City" located?</question>
+		<ans>China</ans>
+		<alt1>Mexico</alt1>
+		<alt2>Peru</alt2>
+		<alt3>Mexico</alt3>
+	</trivia>
+	<trivia id="gen120">
+		<type>General</type>
+		<question> The famous soccer player Pele starred in which of these movies?</question>
+		<ans>Hotshot</ans>
+		<alt1>Air Ball</alt1>
+		<alt2>Slap Shot</alt2>
+		<alt3>Cannonball Run</alt3>
+	</trivia>
+		<trivia id="gen121">
+		<type>General</type>
+		<question> Spanning across the Reuss River, Chapel Bridge that is located in which nation?</question>
+		<ans>Switzerland</ans>
+		<alt1>Japan</alt1>
+		<alt2>America</alt2>
+		<alt3>England</alt3>
+	</trivia>
+	<trivia id="gen122">
+		<type>General</type>
+		<question> How many points is a game played to in badminton?</question>
+		<ans>21 points</ans>
+		<alt1>31 points</alt1>
+		<alt2>11 points</alt2>
+		<alt3>41 points</alt3>
+	</trivia>
+	<trivia id="gen123">
+		<type>General</type>
+		<question> Which of these colors makes up the flag of the Russian Federation?</question>
+		<ans>Red white and blue</ans>
+		<alt1>Red, yellow and blue</alt1>
+		<alt2>Red and yellow</alt2>
+		<alt3>Black and green</alt3>
+	</trivia>
+	<trivia id="gen124">
+		<type>General</type>
+		<question> What is the capital of Bangladesh?</question>
+		<ans>Dhaka</ans>
+		<alt1>Berma</alt1>
+		<alt2>Oslo</alt2>
+		<alt3>Caracas</alt3>
+	</trivia>
+	<trivia id="gen125">
+		<type>General</type>
+		<question> Found in tropical rainforests, in which country could you see a wild tree-kangaroo?</question>
+		<ans>New Guinea</ans>
+		<alt1>Thailand</alt1>
+		<alt2>Jamaica</alt2>
+		<alt3>Korea</alt3>
+	</trivia>
+	<trivia id="gen126">
+		<type>General</type>
+		<question> The tagline "Lie. Cheat. Steal. All in a day's work." is from which movie?</question>
+		<ans>Glengarry Glen Ross</ans>
+		<alt1>The Bodyguard</alt1>
+		<alt2>The Pinkpanther</alt2>
+		<alt3>Ocean's Eleven</alt3>
+	</trivia>
+	<trivia id="gen127">
+		<type>General</type>
+		<question> Known for his roles in the Godfather and Scarface, where was Al Pacino born?</question>
+		<ans>New York</ans>
+		<alt1>Vancouver</alt1>
+		<alt2>London</alt2>
+		<alt3>Rome</alt3>
+	</trivia>
+	<trivia id="gen128">
+		<type>General</type>
+		<question> Which city is nicknamed the "Eternal City"?</question>
+		<ans>Rome</ans>
+		<alt1>Paris</alt1>
+		<alt2>Vienna</alt2>
+		<alt3>Brussels</alt3>
+	</trivia>
+	<trivia id="gen129">
+		<type>General</type>
+		<question> Who played Carter in the film Rush Hour?</question>
+		<ans>Chris Tucker</ans>
+		<alt1>Robert Littman</alt1>
+		<alt2>Ken Leung</alt2>
+		<alt3>Jackie Chan</alt3>
+	</trivia>
+	<trivia id="gen130">
+		<type>General</type>
+		<question> How many feet are in a chain?</question>
+		<ans>66</ans>
+		<alt1>85</alt1>
+		<alt2>100</alt2>
+		<alt3>40</alt3>
+	</trivia>
+	<trivia id="gen131">
+		<type>General</type>
+		<question> A peppercorn is which part of the black pepper plant?</question>
+		<ans>Fruit</ans>
+		<alt1>Stem</alt1>
+		<alt2>Root</alt2>
+		<alt3>Flower</alt3>
+	</trivia>
+	<trivia id="gen132">
+		<type>General</type>
+		<question> Clydesdale horses come from which nation?</question>
+		<ans>Scotland</ans>
+		<alt1>Italy</alt1>
+		<alt2>Russia</alt2>
+		<alt3>Germany</alt3>
+	</trivia>
+	<trivia id="gen133">
+		<type>General</type>
+		<question> Jackie Chan does the voice of which creature in the film "Kung Fu Panda"?</question>
+		<ans>Monkey</ans>
+		<alt1>Crane</alt1>
+		<alt2>Panda</alt2>
+		<alt3>Tiger</alt3>
+	</trivia>
+	<trivia id="gen134">
+		<type>General</type>
+		<question> Which nation's name translates to "Alba"?</question>
+		<ans>Scotland</ans>
+		<alt1>Kenya</alt1>
+		<alt2>Peru</alt2>
+		<alt3>Germany</alt3>
+	</trivia>
+	<trivia id="gen135">
+		<type>General</type>
+		<question> The lily is associated with which holiday?</question>
+		<ans>Easter</ans>
+		<alt1>Valentine's Day</alt1>
+		<alt2>Mother's Day</alt2>
+		<alt3>Christmas</alt3>
+	</trivia>
+</general>
+<sports>
+	<trivia id="spo001">
+		<type>Sports</type>
+		<question>What kind of surface is used at the tennis Wimbledon Championships?</question>
+		<ans>Grass</ans>
+		<alt1>Concrete</alt1>
+		<alt2>Carpet</alt2>
+		<alt3>Clay</alt3>
+	<trivia id="spo002">
+		<type>Sports</type>
+		<question>Which famous boxer was nicknamed "Thunder"?</question>
+		<ans>Arturo Gatti</ans>
+		<alt1>Henry Armstrong</alt1>
+		<alt2>Bobby Chacon</alt2>
+		<alt3>Donovan Ruddock</alt3>
+	<trivia id="spo003">
+		<type>Sports</type>
+		<question>How often do sailors compete in the "Volvo Ocean Race"?</question>
+		<ans>Every three years</ans>
+		<alt1>Every Four years</alt1>
+		<alt2>Every year</alt2>
+		<alt3>Every five years</alt3>
+	<trivia id="spo004">
+		<type>Sports</type>
+		<question>In 2010, which skater won the title of female singles Olympic gold medalist?</question>
+		<ans>Kim Yu-Na</ans>
+		<alt1>Tara Lipinski</alt1>
+		<alt2>Sarah Hughes</alt2>
+		<alt3>Kristi Yamaguchi</alt3>
+	<trivia id="spo005">
+		<type>Sports</type>
+		<question>In the sport of curling, how many rings make up the house?</question>
+		<ans>Four</ans>
+		<alt1>Nine</alt1>
+		<alt2>Seven</alt2>
+		<alt3>Five</alt3>
+	<trivia id="spo006">
+		<type>Sports</type>
+		<question>In a professional game of soccer, how many players are on the field for each team?</question>
+		<ans>11</ans>
+		<alt1>7</alt1>
+		<alt2>15</alt2>
+		<alt3>9</alt3>
+	<trivia id="spo007">
+		<type>Sports</type>
+		<question>Which sport uses the terms point guard and shooting guard?</question>
+		<ans>Basketball</ans>
+		<alt1>Football</alt1>
+		<alt2>Curling</alt2>
+		<alt3>Rugby</alt3>
+	<trivia id="spo008">
+		<type>Sports</type>
+		<question>When was the biathlon made an official Olympic Sport?</question>
+		<ans>1992</ans>
+		<alt1>1924</alt1>
+		<alt2>1948</alt2>
+		<alt3>1936</alt3>
+	<trivia id="spo009">
+		<type>Sports</type>
+		<question>If you were at Mavericks, what sport would you be expecting to see?</question>
+		<ans>Surfing</ans>
+		<alt1>NASCAR</alt1>
+		<alt2>Tennis</alt2>
+		<alt3>Golf</alt3>
+	<trivia id="spo010">
+		<type>Sports</type>
+		<question>What sport does Matt Kenseth participate in?</question>
+		<ans>NASCAR</ans>
+		<alt1>Basketball</alt1>
+		<alt2>Golf</alt2>
+		<alt3>Soccer</alt3>
+	<trivia id="spo011">
+		<type>Sports</type>
+		<question>Where does hockey star Steve Yzerman come from?</question>
+		<ans>Canada</ans>
+		<alt1>Slovakia</alt1>
+		<alt2>Sweden</alt2>
+		<alt3>Russia</alt3>
+	<trivia id="spo012">
+		<type>Sports</type>
+		<question>Who won the Masters Golf Tournament in 2012?</question>
+		<ans>Bubba Watson</ans>
+		<alt1>Fred Couples</alt1>
+		<alt2>Ángel Cabrera</alt2>
+		<alt3>Ben Crenshaw</alt3>
+	<trivia id="spo013">
+		<type>Sports</type>
+		<question>What sport is normally played on a field that is 300 yards long and 160 yards wide?</question>
+		<ans>Polo</ans>
+		<alt1>Rugby</alt1>
+		<alt2>Football</alt2>
+		<alt3>Soccer</alt3>
+	<trivia id="spo014">
+		<type>Sports</type>
+		<question>Which of these sports is closest to the Italian sport of Bocce?</question>
+		<ans>Bowling</ans>
+		<alt1>Broomball</alt1>
+		<alt2>Orienteering</alt2>
+		<alt3>Darts</alt3>
+	<trivia id="spo015">
+		<type>Sports</type>
+		<question>What sport is done in a building normally called a velodrome?</question>
+		<ans>Cycling</ans>
+		<alt1>Dressage</alt1>
+		<alt2>Swimming</alt2>
+		<alt3>Karate</alt3>
+	<trivia id="spo016">
+		<type>Sports</type>
+		<question>Nicknamed the "Wizard of Westwood," as a head coach John Wooden won ten national championships in a 12-year period, including seven in a row. In which sport?</question>
+		<ans>Basketball</ans>
+		<alt1>Soccer</alt1>
+		<alt2>Hockey</alt2>
+		<alt3>Football</alt3>
+	<trivia id="spo017">
+		<type>Sports</type>
+		<question>Which of the following NFL teams have never made an appearance at the Superbowl?</question>
+		<ans>Cleveland Browns</ans>
+		<alt1>Indianapolis Colts</alt1>
+		<alt2>Philadelphia Eagles</alt2>
+		<alt3>San Diego Chargers</alt3>
+	<trivia id="spo018">
+		<type>Sports</type>
+		<question>Receiving three Cy Young Awards and four Gold Gloves during his career, which baseball pitcher currently holds the Baltimore Oriole's record with 268 career victories?</question>
+		<ans>Jim Palmer</ans>
+		<alt1>Dave McNally</alt1>
+		<alt2>Brooks Robinson</alt2>
+		<alt3>Mike Cuellar</alt3>
+	<trivia id="spo019">
+		<type>Sports</type>
+		<question>What Olympic medal did former heavyweight champion Floyd Patterson win at the 1952 Helsinki Olympics?</question>
+		<ans>Gold Medal - Middleweight Boxing</ans>
+		<alt1>None</alt1>
+		<alt2>Bronze Medal - Middleweight Boxing</alt2>
+		<alt3>Silver Medal - Middleweight Boxing</alt3>
+	<trivia id="spo020">
+		<type>Sports</type>
+		<question>Who was the first woman to compete in the Indianapolis 500?</question>
+		<ans>Janet Guthrie</ans>
+		<alt1>Lella Lombardi</alt1>
+		<alt2>Louise Smith</alt2>
+		<alt3>Sara Christian</alt3>
+	<trivia id="spo021">
+		<type>Sports</type>
+		<question>Widely thought of as the most adept professional golfer of all time, what pro-golfer is known by the nickname "The Golden Bear"?</question>
+		<ans>Jack Nicklaus</ans>
+		<alt1>Tom Watson</alt1>
+		<alt2>Tiger Woods</alt2>
+		<alt3>Arnold Palmer</alt3>
+	<trivia id="spo022">
+		<type>Sports</type>
+		<question>Who was the first driver to win the Indianapolis 500 four times?</question>
+		<ans>A.J. Foyt</ans>
+		<alt1>Dan Gurney</alt1>
+		<alt2>Al Unser</alt2>
+		<alt3>Bobby Unser</alt3>
+	<trivia id="spo023">
+		<type>Sports</type>
+		<question>Former Montreal Canadians goaltender Jacques Plante introduced what piece of equipment to the NHL?</question>
+		<ans>Goalie's Face Mask</ans>
+		<alt1>Goalie's Throat Protector</alt1>
+		<alt2>Goalie's Wide Stick</alt2>
+		<alt3>Goalie's Catching Glove</alt3>
+	<trivia id="spo024">
+		<type>Sports</type>
+		<question>The terms "drivers" and "irons" are used in which of the following sports?</question>
+		<ans>Horse racing</ans>
+		<alt1>Bowling</alt1>
+		<alt2>Hockey</alt2>
+		<alt3>Basketball</alt3>
+	<trivia id="spo025">
+		<type>Sports</type>
+		<question>How high is a basketball hoop rim above the playing floor?</question>
+		<ans>10 Feet</ans>
+		<alt1>11 Feet</alt1>
+		<alt2>12 Feet</alt2>
+		<alt3>8 Feet</alt3>
+	<trivia id="spo026">
+		<type>Sports</type>
+		<question>Who was the first defenseman to lead the NHL in scoring?</question>
+		<ans>Bobby Orr</ans>
+		<alt1>Ray Bourque</alt1>
+		<alt2>Denis Potvin</alt2>
+		<alt3>Paul Coffey</alt3>
+	<trivia id="spo027">
+		<type>Sports</type>
+		<question>Who is the only player in MLB history with more than 1,000 stolen bases?</question>
+		<ans>Rickey Henderson</ans>
+		<alt1>Lou Brock</alt1>
+		<alt2>Billy Hamilton</alt2>
+		<alt3>Ty Cobb</alt3>
+	<trivia id="spo028">
+		<type>Sports</type>
+		<question>The Triple Crown of Thoroughbred Racing is a series of three Thoroughbred horse races consisting of the Preakness Stakes, Belmont Stakes and which other event?</question>
+		<ans>Kentucky Derby</ans>
+		<alt1>Gulfstream Stakes</alt1>
+		<alt2>Monrovia Stakes</alt2>
+		<alt3>Marshua's River Stakes</alt3>
+	<trivia id="spo029">
+		<type>Sports</type>
+		<question>Which NFL team won the very first Superbowl?</question>
+		<ans>Greenbay Packers</ans>
+		<alt1>New York Giants</alt1>
+		<alt2>Pittsburgh Steelers</alt2>
+		<alt3>Dallas Cowboys</alt3>
+	<trivia id="spo030">
+		<type>Sports</type>
+		<question>Which American swimmer won 7 gold medals at the 1972 Summer Olympics?</question>
+		<ans>Mark Spitz</ans>
+		<alt1>John Kinsella</alt1>
+		<alt2>Eric Namesnik</alt2>
+		<alt3>Michael Phelps</alt3>
+	<trivia id="spo031">
+		<type>Sports</type>
+		<question>What sports superstar lit the flame at the 1996 Atlantic Summer Olympics?</question>
+		<ans>Muhammad Ali</ans>
+		<alt1>Joe Montana</alt1>
+		<alt2>Wayne Gretzky</alt2>
+		<alt3>Michael Jordan</alt3>
+	<trivia id="spo032">
+		<type>Sports</type>
+		<question>As of 2014, who is the only pitcher in the history of the MLB to have thrown back-toback no-hitters?</question>
+		<ans>Vander Meer</ans>
+		<alt1>Lefty Gomez</alt1>
+		<alt2>Dizzy Dean</alt2>
+		<alt3>Freddie Fitzsimmons</alt3>
+	<trivia id="spo033">
+		<type>Sports</type>
+		<question>Which WTA star has spent a record breaking 377 weeks as the world's number one tennis player?</question>
+		<ans>Steffi Graf</ans>
+		<alt1>Lindsay Davenport</alt1>
+		<alt2>Chris Evert</alt2>
+		<alt3>Martina Navratilova</alt3>
+	<trivia id="spo034">
+		<type>Sports</type>
+		<question>One of the best NHL goalies of all time, who played 502 "consecutive games" from the beginning of the 1955-56 season until November 8th, 1962?</question>
+		<ans>Glenn Hall</ans>
+		<alt1>Gump Worsley</alt1>
+		<alt2>Jacques Plante</alt2>
+		<alt3>Johnny Bower</alt3>
+	<trivia id="spo035">
+		<type>Sports</type>
+		<question>Defending his world heavyweight title six times, which boxer holds the undefeated record at 49-0?</question>
+		<ans>Rocky Marciano</ans>
+		<alt1>Floyd Mayweather, Jr.</alt1>
+		<alt2>Joe Louis</alt2>
+		<alt3>Archie Moore</alt3>
+	<trivia id="spo036">
+		<type>Sports</type>
+		<question>A feat that probably will never be beat, which NHL superstar defenseman holds the record for the best plus-minus in a season at 124?</question>
+		<ans>Bobby Orr</ans>
+		<alt1>Ray Bourque</alt1>
+		<alt2>Denis Potvin</alt2>
+		<alt3>Paul Coffey</alt3>
+	<trivia id="spo037">
+		<type>Sports</type>
+		<question>During the 1945 golf season, who won 18 of the 35 tournaments that he was entered in including 11 tournament victories in a row?</question>
+		<ans>Byron Nelson</ans>
+		<alt1>Lloyd Mangrum</alt1>
+		<alt2>Sam Snead</alt2>
+		<alt3>Ben Hogan</alt3>
+	<trivia id="spo038">
+		<type>Sports</type>
+		<question>As of 2014, which NFL quarterback has played the most consecutive games at 321?</question>
+		<ans>Brett Favre</ans>
+		<alt1>Peyton Manning</alt1>
+		<alt2>Joe Montana</alt2>
+		<alt3>Tom Brady</alt3>
+	<trivia id="spo039">
+		<type>Sports</type>
+		<question>Which NHL team won the 2014 Stanley Cup?</question>
+		<ans>Los Angeles Kings</ans>
+		<alt1>Chicago Blackhawks</alt1>
+		<alt2>Montreal Canadians</alt2>
+		<alt3>New York Rangers</alt3>
+	<trivia id="spo040">
+		<type>Sports</type>
+		<question>The former professional NBA basketball player Larry Bird spent his whole career playing for just one team. Which one?</question>
+		<ans>Boston Celtics</ans>
+		<alt1>Los Angeles Lakers</alt1>
+		<alt2>Miami Heat</alt2>
+		<alt3>New York Knicks</alt3>
+	<trivia id="spo041">
+		<type>Sports</type>
+		<question>Achieved in 1941, which MLB star holds the record with a 56 game continuous hit streak?</question>
+		<ans>Joe DiMaggio</ans>
+		<alt1>Babe Ruth</alt1>
+		<alt2>Lou Gehrig</alt2>
+		<alt3>Mickey Mantle</alt3>
+	<trivia id="spo042">
+		<type>Sports</type>
+		<question>Which racehorse holds the record for the fastest Kentucky Derby ever at one minute and 59 seconds?</question>
+		<ans>Secretariat</ans>
+		<alt1>Phar Lap</alt1>
+		<alt2>Seabiscuit</alt2>
+		<alt3>Citation</alt3>
+	<trivia id="spo043">
+		<type>Sports</type>
+		<question>Called the "Great One" for a reason, Wayne Gretzky holds the NHL career points record at 2,857 points. Who is second in most career points?</question>
+		<ans>Mark Messier</ans>
+		<alt1>Jaromir Jagr</alt1>
+		<alt2>Gordie Howe</alt2>
+		<alt3>Mario Lemieux</alt3>
+	<trivia id="spo044">
+		<type>Sports</type>
+		<question>In which country will the 2016 Summer Olympics be held?</question>
+		<ans>Brazil</ans>
+		<alt1>Columbia</alt1>
+		<alt2>Canada</alt2>
+		<alt3>Peru</alt3>
+	<trivia id="spo045">
+		<type>Sports</type>
+		<question>With 1,184 races run over 35 years, which NASCAR great holds the record for most wins at 200?</question>
+		<ans>Richard Petty</ans>
+		<alt1>Bobby Allison</alt1>
+		<alt2>David Pearson</alt2>
+		<alt3>Dale Earnhardt</alt3>
+</sports>
+<history>
+	<trivia id="his001">
+		<type>History</type>
+		<question>Which President's estate was called Hermitage?</question>
+		<ans>Andres Jackson</ans>
+		<alt1>Thomas Jefferson</alt1>
+		<alt2>Woodrow Wilson</alt2>
+		<alt3>John Adams</alt3>
+	<trivia id="his002">
+		<type>History</type>
+		<question>One of the most important naval battles of World War II, the Battle of Midway was fought between the United States and which other nation?</question>
+		<ans>Japan</ans>
+		<alt1>Germany</alt1>
+		<alt2>China</alt2>
+		<alt3>Russia</alt3>
+	<trivia id="his003">
+		<type>History</type>
+		<question>Coazon Aquino was the President of which nation?</question>
+		<ans>The Philippines</ans>
+		<alt1>Ethiopia</alt1>
+		<alt2>New Zealand</alt2>
+		<alt3>Turkey</alt3>
+	<trivia id="his004">
+		<type>History</type>
+		<question>Alexander the Great succeeded his father to the throne in 336 BC after his father was assassinated. Who was his father?</question>
+		<ans>Philip II of Macedon</ans>
+		<alt1>Philip I of Macedon</alt1>
+		<alt2>Alexander III of Macedon</alt2>
+		<alt3>Darius III</alt3>
+	<trivia id="his005">
+		<type>History</type>
+		<question>What feature was Ambrose Burnside noted for?</question>
+		<ans>Sideburns</ans>
+		<alt1>A cleft pallet</alt1>
+		<alt2>A club foot</alt2>
+		<alt3>An extra finger</alt3>
+	<trivia id="his006">
+		<type>History</type>
+		<question>The Hundred Years' War was a series of battles fought between England and France. How long did the war last?</question>
+		<ans>116 Years</ans>
+		<alt1>101 Years</alt1>
+		<alt2>99 Years</alt2>
+		<alt3>100 Years</alt3>
+	<trivia id="his007">
+		<type>History</type>
+		<question>In 1978, Leo Ryan was assassinated. Where?</question>
+		<ans>Guyana</ans>
+		<alt1>Cuba</alt1>
+		<alt2>Pakistan</alt2>
+		<alt3>India</alt3>
+	<trivia id="his008">
+		<type>History</type>
+		<question>In 1964, whom did Barry Goldwater run against?</question>
+		<ans>Lyndon Johnson</ans>
+		<alt1>Jimmy Carter</alt1>
+		<alt2>Gerald Ford</alt2>
+		<alt3>J. F. Kennedy</alt3>
+	<trivia id="his009">
+		<type>History</type>
+		<question>What was William Randolph Hearst's claim to fame?</question>
+		<ans>Newspaper publisher</ans>
+		<alt1>Actor</alt1>
+		<alt2>Inventor</alt2>
+		<alt3>Painter</alt3>
+	<trivia id="his010">
+		<type>History</type>
+		<question>Which one of these famous people formed a fire department in Philadelphia?</question>
+		<ans>Benjamin Franklin</ans>
+		<alt1>Arthur Miller</alt1>
+		<alt2>Clark Gable</alt2>
+		<alt3>Theodore Roosevelt</alt3>
+	<trivia id="his011">
+		<type>History</type>
+		<question>What happened on the USS Creole, which made it famous?</question>
+		<ans>Slave revolt</ans>
+		<alt1>Set the record for the fastest nautical mile</alt1>
+		<alt2>Sank</alt2>
+		<alt3>Torpedoes an aircraft carrier</alt3>
+	<trivia id="his012">
+		<type>History</type>
+		<question>What was the name of the first Pope from Poland?</question>
+		<ans>Pope John Paul II</ans>
+		<alt1>Pope Paul</alt1>
+		<alt2>Pope Julius</alt2>
+		<alt3>Pope Pius</alt3>
+	<trivia id="his013">
+		<type>History</type>
+		<question>Which city in the United States was the first to get a subway?</question>
+		<ans>Boston</ans>
+		<alt1>New York</alt1>
+		<alt2>Chicago</alt2>
+		<alt3>San Francisco</alt3>
+	<trivia id="his014">
+		<type>History</type>
+		<question>The Cinco de Mayo holiday remembers which battle?</question>
+		<ans>Battle of Pueblo</ans>
+		<alt1>Battle of New Orleans</alt1>
+		<alt2>Battle of Trafalgar</alt2>
+		<alt3>Battle of Liberty Ridge</alt3>
+	<trivia id="his015">
+		<type>History</type>
+		<question>When the United States declaration of Independence was signed, who was the first to sign it?</question>
+		<ans>John Hancock</ans>
+		<alt1>Thomas Jefferson</alt1>
+		<alt2>Edward Rutledge</alt2>
+		<alt3>John Adams</alt3>
+	<trivia id="his016">
+		<type>History</type>
+		<question>In what year did Joseph Stalin die?</question>
+		<ans>1953</ans>
+		<alt1>1904</alt1>
+		<alt2>1968</alt2>
+		<alt3>1937</alt3>
+	<trivia id="his017">
+		<type>History</type>
+		<question>In what year was the first Noble Peace Prize awarded?</question>
+		<ans>1901</ans>
+		<alt1>1911</alt1>
+		<alt2>1923</alt2>
+		<alt3>1891</alt3>
+	<trivia id="his018">
+		<type>History</type>
+		<question>Which state was the 14th to join the United States?</question>
+		<ans>Vermont</ans>
+		<alt1>Missouri</alt1>
+		<alt2>Ohio</alt2>
+		<alt3>Maine</alt3>
+	<trivia id="his019">
+		<type>History</type>
+		<question>When were the first recorded Olympic Games?</question>
+		<ans>776 BC</ans>
+		<alt1>110 AD</alt1>
+		<alt2>223 AD</alt2>
+		<alt3>200 BC</alt3>
+	<trivia id="his020">
+		<type>History</type>
+		<question>When was Rome founded (traditional date)?</question>
+		<ans>753 BC</ans>
+		<alt1>321 BC</alt1>
+		<alt2>1050 BC</alt2>
+		<alt3>873 BC</alt3>
+	<trivia id="his021">
+		<type>History</type>
+		<question>The historic figure Laura Secord is associated with which war?</question>
+		<ans>War of 1812</ans>
+		<alt1>WWI</alt1>
+		<alt2>Crimean War</alt2>
+		<alt3>American Civil War</alt3>
+	<trivia id="his022">
+		<type>History</type>
+		<question>When did the Aztecs found Tenochtitlan?</question>
+		<ans>1325</ans>
+		<alt1>1568</alt1>
+		<alt2>200 BC</alt2>
+		<alt3>10 AD</alt3>
+	<trivia id="his023">
+		<type>History</type>
+		<question>In 1381, who is credited with translating the Bible into English?</question>
+		<ans>John Wycliffe</ans>
+		<alt1>Pope Gregory</alt1>
+		<alt2>Pope Martin V</alt2>
+		<alt3>Kings James</alt3>
+	<trivia id="his024">
+		<type>History</type>
+		<question>Who sent Joan of Arc to the siege of Orleans?</question>
+		<ans>Charles VII</ans>
+		<alt1>Phillip III</alt1>
+		<alt2>Francis</alt2>
+		<alt3>Louis I</alt3>
+	<trivia id="his025">
+		<type>History</type>
+		<question>Who became the ruler of England after the death of Henry the Eighth?</question>
+		<ans>Edward VI Tudor</ans>
+		<alt1>Elizabeth</alt1>
+		<alt2>Mary</alt2>
+		<alt3>Jane Grey</alt3>
+	<trivia id="his026">
+		<type>History</type>
+		<question>Approximately, when did the Vikings discover Iceland?</question>
+		<ans>870</ans>
+		<alt1>1351</alt1>
+		<alt2>1210</alt2>
+		<alt3>110</alt3>
+	<trivia id="his027">
+		<type>History</type>
+		<question>What was the name of the battle that ended the War of the Roses?</question>
+		<ans>Battle of Stoke</ans>
+		<alt1>Battle of Crecy</alt1>
+		<alt2>Battle of Stirling Bridge</alt2>
+		<alt3>Battle of Yamen</alt3>
+	<trivia id="his028">
+		<type>History</type>
+		<question>When did the Black Death first decimate Europe?</question>
+		<ans>1347</ans>
+		<alt1>876</alt1>
+		<alt2>254</alt2>
+		<alt3>1011</alt3>
+	<trivia id="his029">
+		<type>History</type>
+		<question>In 1503, which nation defeated France at the Battle of Cerignola?</question>
+		<ans>Spain</ans>
+		<alt1>Ottoman Empire</alt1>
+		<alt2>England</alt2>
+		<alt3>Portugal</alt3>
+	<trivia id="his030">
+		<type>History</type>
+		<question>When was Rome attacked by Alaric King of the Visigoths?</question>
+		<ans>410</ans>
+		<alt1>1103</alt1>
+		<alt2>1386</alt2>
+		<alt3>1287</alt3>
+	<trivia id="his031">
+		<type>History</type>
+		<question>Who was the first to circle the earth (1519-1522)?</question>
+		<ans>Magellan</ans>
+		<alt1>Columbus</alt1>
+		<alt2>Cabot</alt2>
+		<alt3>Cook</alt3>
+	<trivia id="his032">
+		<type>History</type>
+		<question>What did Pliny the Younger witness in 79 AD?</question>
+		<ans>The eruption of Mount Vesuvius</ans>
+		<alt1>The death of Caesar</alt1>
+		<alt2>The fall of Alexandria</alt2>
+		<alt3>The defeat of the Spanish Armada</alt3>
+	<trivia id="his033">
+		<type>History</type>
+		<question>The Triple Alliance was signed in 1717. Which of these nations did not sign?</question>
+		<ans>Russia</ans>
+		<alt1>France</alt1>
+		<alt2>Britain</alt2>
+		<alt3>Netherlands</alt3>
+	<trivia id="his034">
+		<type>History</type>
+		<question>Who became the leader of Russia in 1740?</question>
+		<ans>Frederick the Great</ans>
+		<alt1>Peter the Great</alt1>
+		<alt2>Catherine the Great</alt2>
+		<alt3>Ivan the Terrible</alt3>
+	<trivia id="his035">
+		<type>History</type>
+		<question>When did the Lisbon Earthquake occur?</question>
+		<ans>1755</ans>
+		<alt1>1321</alt1>
+		<alt2>987</alt2>
+		<alt3>1543</alt3>
+	<trivia id="his036">
+		<type>History</type>
+		<question>In which nation was the Zand Dynasty formed in 1760?</question>
+		<ans>Iran</ans>
+		<alt1>Mexico</alt1>
+		<alt2>India</alt2>
+		<alt3>Kenya</alt3>
+	<trivia id="his037">
+		<type>History</type>
+		<question>When was author Jules Verne first published?</question>
+		<ans>1851</ans>
+		<alt1>1653</alt1>
+		<alt2>1765</alt2>
+		<alt3>1902</alt3>
+	<trivia id="his038">
+		<type>History</type>
+		<question>Most economic historians attribute the start of the Great Depression in 1929 to what event?</question>
+		<ans>US Stock Market Crash</ans>
+		<alt1>International Trade</alt1>
+		<alt2>Drought</alt2>
+		<alt3>Unemployment</alt3>
+	<trivia id="his039">
+		<type>History</type>
+		<question>Fought on May 10th of 1796, Napoleon Bonaparte defeated what forces at the Battle of Lodi?</question>
+		<ans>Austrian</ans>
+		<alt1>English</alt1>
+		<alt2>American</alt2>
+		<alt3>Spanish</alt3>
+	<trivia id="his040">
+		<type>History</type>
+		<question>Currently the second largest reserve currency in the world, when did euro coins and banknotes first enter circulation?</question>
+		<ans>January 2002</ans>
+		<alt1>January 2004</alt1>
+		<alt2>January 2008</alt2>
+		<alt3>January 2006</alt3>
+	<trivia id="his041">
+		<type>History</type>
+		<question>Peter the Great was emperor of which country from November 1721 until his death in February 1725?</question>
+		<ans>Russia</ans>
+		<alt1>Spain</alt1>
+		<alt2>France</alt2>
+		<alt3>Germany</alt3>
+	<trivia id="his042">
+		<type>History</type>
+		<question>Discovered in 1922, whose intact 14th-century tomb was discovered by Howard Carter and Lord Carnarvon?</question>
+		<ans>Tutankhamun (King Tut)</ans>
+		<alt1>Pentawer</alt1>
+		<alt2>Ramesses IV</alt2>
+		<alt3>Ramesses III</alt3>
+	<trivia id="his043">
+		<type>History</type>
+		<question>Developed during the Second World War, the V-2 rocket was the world's first longrange ballistic missile. What country invented it?</question>
+		<ans>Germany</ans>
+		<alt1>England</alt1>
+		<alt2>United States</alt2>
+		<alt3>Japan</alt3>
+	<trivia id="his044">
+		<type>History</type>
+		<question>The Black Death, which was widespread over all of Europe, arrived in England sometime in 1348 killing nearly half of the English population. What was it?</question>
+		<ans>An epidemic of bubonic plague</ans>
+		<alt1>An epidemic of chicken pox</alt1>
+		<alt2>An invasion of Vikings</alt2>
+		<alt3>A severe drought</alt3>
+	<trivia id="his045">
+		<type>History</type>
+		<question>Credited with 72 victories, the First World War flying ace Billy Bishop was from which country?</question>
+		<ans>Canada</ans>
+		<alt1>France</alt1>
+		<alt2>Germany</alt2>
+		<alt3>United States</alt3>
+	<trivia id="his046">
+		<type>History</type>
+		<question>Founded in 1937 by the Nazi trade union, which German motor manufacturer was set up to produce a "people's car"?</question>
+		<ans>Volkswagen</ans>
+		<alt1>Porsche</alt1>
+		<alt2>Audi</alt2>
+		<alt3>Mercedes-Benz</alt3>
+	<trivia id="his047">
+		<type>History</type>
+		<question>Established in October of 1945, there are currently 193 member states in the United Nations (2014). How many were there when it was founded?</question>
+		<ans>51 Member States</ans>
+		<alt1>21 Member States</alt1>
+		<alt2>31 Member States</alt2>
+		<alt3>41 Member States</alt3>
+	<trivia id="his048">
+		<type>History</type>
+		<question>Pompeii was completely demolished by the eruption of Mount Vesuvius sometime in 79 AD. Which other town was also ruined by the eruption?</question>
+		<ans>Herculaneum</ans>
+		<alt1>Falacrine</alt1>
+		<alt2>Concordia Sagittaria</alt2>
+		<alt3>Apiolae</alt3>
+	<trivia id="his049">
+		<type>History</type>
+		<question>Which of the following famous women was nicknamed "The Maid of Orleans"?</question>
+		<ans>Joan of Arc</ans>
+		<alt1>Amelia Earhart</alt1>
+		<alt2>Marie Antoinette</alt2>
+		<alt3>Catherine the Great</alt3>
+	<trivia id="his050">
+		<type>History</type>
+		<question>Leading to a famous gold rush, in which region of the Yukon in northwest Canada was gold discovered in 1896?</question>
+		<ans>Klondike</ans>
+		<alt1>Beaver Creek</alt1>
+		<alt2>Brooks Range</alt2>
+		<alt3>Pelly Crossing</alt3>
+	<trivia id="his051">
+		<type>History</type>
+		<question>Operated by the Third Reich of Germany, in what country were the infamous Auschwitz concentration camps constructed?</question>
+		<ans>Poland</ans>
+		<alt1>Germany</alt1>
+		<alt2>France</alt2>
+		<alt3>Russia</alt3>
+	<trivia id="his052">
+		<type>History</type>
+		<question>Where was King Henry VIII's second wife Anne Boleyn housed while awaiting execution in May of 1536?</question>
+		<ans>Tower of London</ans>
+		<alt1>Greenwich Palace</alt1>
+		<alt2>Hampton Court</alt2>
+		<alt3>Edinburgh Castle Dungeon</alt3>
+	<trivia id="his053">
+		<type>History</type>
+		<question>An iconic symbol of American independence, in which city is the Liberty Bell located?</question>
+		<ans>Philadelphia</ans>
+		<alt1>Boston</alt1>
+		<alt2>New York City</alt2>
+		<alt3>Washington, D.C.</alt3>
+	<trivia id="his054">
+		<type>History</type>
+		<question>What well-known actor from Maryland assassinated Abraham Lincoln on April 14 1865?</question>
+		<ans>John Wilkes Booth</ans>
+		<alt1>Lewis Powell</alt1>
+		<alt2>Lee Harvey Oswald</alt2>
+		<alt3>Jefferson Davis</alt3>
+	<trivia id="his055">
+		<type>History</type>
+		<question>Nicknamed the "Red King," who was "King of the Scots" from 1040 until his death in 1057?</question>
+		<ans>Macbeth</ans>
+		<alt1>Malcolm III</alt1>
+		<alt2>Donald III</alt2>
+		<alt3>Duncan I</alt3>
+	<trivia id="his056">
+		<type>History</type>
+		<question>Who was the first woman to sit as a Member of Parliament (MP) in the English House of Commons?</question>
+		<ans>Nancy Astor</ans>
+		<alt1>Margaret Bondfield</alt1>
+		<alt2>Emmeline Pankhurst</alt2>
+		<alt3>Bessie Braddock</alt3>
+	<trivia id="his057">
+		<type>History</type>
+		<question>Located in eastern Montana, where did "Custer's Last Stand" occur in 1876?</question>
+		<ans>Little Big Horn</ans>
+		<alt1>Little Crow Foot</alt1>
+		<alt2>Little Blood Creek</alt2>
+		<alt3>Little Snake River</alt3>
+	<trivia id="his058">
+		<type>History</type>
+		<question>What is the name of the Aztec leader who was killed when Hernan Cortes and his men fought to escape the Aztec capital of Tenochtitlan?</question>
+		<ans>Montezuma II</ans>
+		<alt1>Ahuitzotl</alt1>
+		<alt2>Montezuma I</alt2>
+		<alt3>Atahualpa</alt3>
+	<trivia id="his059">
+		<type>History</type>
+		<question>Which execution method was used to kill aristocrats during the French Revolution?</question>
+		<ans>The Guillotine</ans>
+		<alt1>Hanging, Drawing and Quartering</alt1>
+		<alt2>The Brazen Bull</alt2>
+		<alt3>Burning at the Stake</alt3>
+	<trivia id="his060">
+		<type>History</type>
+		<question>Where was Richard the Lionheart held prisoner when he returned to Europe after the Third Crusade?</question>
+		<ans>Austria</ans>
+		<alt1>England</alt1>
+		<alt2>France</alt2>
+		<alt3>Germany</alt3>
+	<trivia id="his061">
+		<type>History</type>
+		<question>After claiming that they were fired on at the Marco Polo Bridge, what country did the Japanese invade in 1937?</question>
+		<ans>China</ans>
+		<alt1>Philippines</alt1>
+		<alt2>United States</alt2>
+		<alt3>India</alt3>
+	<trivia id="his062">
+		<type>History</type>
+		<question>In what year was Margaret Thatcher elected Prime Minister of the United Kingdom?</question>
+		<ans>1979</ans>
+		<alt1>1974</alt1>
+		<alt2>1983</alt2>
+		<alt3>1969</alt3>
+	<trivia id="his063">
+		<type>History</type>
+		<question>Who was the first actress to earn a million dollars for their role in a single film?</question>
+		<ans>Elizabeth Taylor</ans>
+		<alt1>Bette Davis</alt1>
+		<alt2>Marilyn Monroe</alt2>
+		<alt3>Audrey Hepburn</alt3>
+	<trivia id="his064">
+		<type>History</type>
+		<question>Who of the following was shot dead in Dallas on the 24th of November 1963?</question>
+		<ans>Lee Harvey Oswald</ans>
+		<alt1>Jack Ruby</alt1>
+		<alt2>Guy Banister</alt2>
+		<alt3>John F. Kennedy</alt3>
+	<trivia id="his065">
+		<type>History</type>
+		<question>In what year did Soviet Cosmonaut Alexey Leonov make the first spacewalk?</question>
+		<ans>1965</ans>
+		<alt1>1960</alt1>
+		<alt2>1975</alt2>
+		<alt3>1970</alt3>
+	<trivia id="his066">
+		<type>History</type>
+		<question>What war was ended with the signing of an armistice on July 27th 1953?</question>
+		<ans>Korean War</ans>
+		<alt1>World War II</alt1>
+		<alt2>Soviet war in Afghanistan</alt2>
+		<alt3>Vietnam War</alt3>
+	<trivia id="his067">
+		<type>History</type>
+		<question>Which British Prime Minister, who served during World War II (1940 to 1945), returned to power in 1951?</question>
+		<ans>Winston Churchill</ans>
+		<alt1>Anthony Eden</alt1>
+		<alt2>Neville Chamberlain</alt2>
+		<alt3>Clement Attlee</alt3>
+	<trivia id="his068">
+		<type>History</type>
+		<question>In what year did the infamous Jack the Ripper commit his crimes?</question>
+		<ans>1888</ans>
+		<alt1>1854</alt1>
+		<alt2>1906</alt2>
+		<alt3>1924</alt3>
+	<trivia id="his069">
+		<type>History</type>
+		<question>Currently a painter, in what profession did Alan LaVern Bean find fame?</question>
+		<ans>Astronaut</ans>
+		<alt1>Actor</alt1>
+		<alt2>Politician</alt2>
+		<alt3>Writer</alt3>
+	<trivia id="his070">
+		<type>History</type>
+		<question>Assassinated on April 15, 1865, which weapon did John Wilkes Booth use to kill Abraham Lincoln?</question>
+		<ans>A pistol</ans>
+		<alt1>A rifle</alt1>
+		<alt2>A knife</alt2>
+		<alt3>A sword</alt3>
+	<trivia id="his071">
+		<type>History</type>
+		<question>Located in India, who built the mausoleum "Taj Mahal"?</question>
+		<ans>Shah Jahan</ans>
+		<alt1>Sher Shah Suri</alt1>
+		<alt2>Jahangir</alt2>
+		<alt3>Shah Alam</alt3>
+	<trivia id="his072">
+		<type>History</type>
+		<question>Which of these historic figures was dubbed "Scourge of God"?</question>
+		<ans>Attila the Hun</ans>
+		<alt1>Joseph Stalin</alt1>
+		<alt2>Fidel Castro</alt2>
+		<alt3>Peter the Great</alt3>
+	<trivia id="his073">
+		<type>History</type>
+		<question>Married in 1582, who was Anne Hathaway's husband?</question>
+		<ans>William Shakespeare</ans>
+		<alt1>Francis Drake</alt1>
+		<alt2>Sir Francis Bacon</alt2>
+		<alt3>Henry the Eighth</alt3>
+	<trivia id="his074">
+		<type>History</type>
+		<question>Which U.S. President used the slogan "The Buck Stops Here"?</question>
+		<ans>Truman</ans>
+		<alt1>Kennedy</alt1>
+		<alt2>Nixon</alt2>
+		<alt3>Regan</alt3>
+	<trivia id="his075">
+		<type>History</type>
+		<question>Which of these people discovered the tomb of Tutankhamen?</question>
+		<ans>Howard Carter</ans>
+		<alt1>Alexander Thom</alt1>
+		<alt2>Pierre Montet</alt2>
+		<alt3>Alfred Kidder</alt3>
+	<trivia id="his076">
+		<type>History</type>
+		<question>When did Great Britain get the atomic bomb?</question>
+		<ans>1952</ans>
+		<alt1>1914</alt1>
+		<alt2>1867</alt2>
+		<alt3>1974</alt3>
+	<trivia id="his077">
+		<type>History</type>
+		<question>A part of international pop culture, Eva Peron was married to the president of which nation?</question>
+		<ans>Argentina</ans>
+		<alt1>Mexico</alt1>
+		<alt2>Spain</alt2>
+		<alt3>Portugal</alt3>
+	<trivia id="his078">
+		<type>History</type>
+		<question>In what year was New Zealand claimed by Great Britain?</question>
+		<ans>1769</ans>
+		<alt1>1834</alt1>
+		<alt2>1634</alt2>
+		<alt3>1721</alt3>
+	<trivia id="his079">
+		<type>History</type>
+		<question>What useful item, still used today, did Lewis Waterman patent in 1884?</question>
+		<ans>The fountain pen</ans>
+		<alt1>The printing press</alt1>
+		<alt2>The aqualung</alt2>
+		<alt3>The windshield wiper</alt3>
+	<trivia id="his080">
+		<type>History</type>
+		<question>When did Jerry Springer become the mayor of Cincinnati?</question>
+		<ans>1977</ans>
+		<alt1>1991</alt1>
+		<alt2>1986</alt2>
+		<alt3>1994</alt3>
+	<trivia id="his081">
+		<type>History</type>
+		<question>Who was the son of Pepin the Short?</question>
+		<ans>Charlemagne</ans>
+		<alt1>Kublai Khan</alt1>
+		<alt2>Plato</alt2>
+		<alt3>Richard the Lionhearted</alt3>
+	<trivia id="his082">
+		<type>History</type>
+		<question>How long did Lady Jane Grey rule England?</question>
+		<ans>Nine days</ans>
+		<alt1>43 years</alt1>
+		<alt2>29 years</alt2>
+		<alt3>Six years</alt3>
+</history>
+<easy>
+	<trivia id="eas001">
+		<type>Easy</type>
+		<question>The principle character and protagonist of a novel by J.R.R. Tolkien, who is Bilbo Baggins better known as?</question>
+		<ans>The Hobbit</ans>
+		<alt1>Smith of Wootton Major</alt1>
+		<alt2>Beowulf</alt2>
+		<alt3>The Silmarillion</alt3>
+	<trivia id="eas002">
+		<type>Easy</type>
+		<question>Who is currently the President of Russia (2014)?</question>
+		<ans>Vladimir Putin</ans>
+		<alt1>Viktor Zubkov</alt1>
+		<alt2>Dmitry Medvedev</alt2>
+		<alt3>Boris Yeltsin</alt3>
+	<trivia id="eas003">
+		<type>Easy</type>
+		<question>The English singer-songwriter Reginald Dwight is better known as?</question>
+		<ans>Elton John</ans>
+		<alt1>David Bowie</alt1>
+		<alt2>Elvis Costello</alt2>
+		<alt3>Boy George</alt3>
+	<trivia id="eas004">
+		<type>Easy</type>
+		<question>King Midas is widely recognized in Greek mythology for his ability to turn everything he touched into which of the following?</question>
+		<ans>Gold</ans>
+		<alt1>Silver</alt1>
+		<alt2>Coins</alt2>
+		<alt3>Chocolate</alt3>
+	<trivia id="eas005">
+		<type>Easy</type>
+		<question>"The Queen of Hearts, she made some tarts, all on a summer's day." Just to have them stolen by whom?</question>
+		<ans>The Knave of Hearts</ans>
+		<alt1>The King of Spades</alt1>
+		<alt2>The Diamond King</alt2>
+		<alt3>The King of Clubs</alt3>
+	<trivia id="eas006">
+		<type>Easy</type>
+		<question>What companies' advertising slogan is "Finger Lickin' Good!"?</question>
+		<ans>Kentucky Fried Chicken</ans>
+		<alt1>Boston Pizza</alt1>
+		<alt2>Applebee's</alt2>
+		<alt3>McDonald's</alt3>
+	<trivia id="eas007">
+		<type>Easy</type>
+		<question>What is the name of Michael Jackson's beloved pet chimpanzee?</question>
+		<ans>Bubbles</ans>
+		<alt1>Shirley</alt1>
+		<alt2>Banana</alt2>
+		<alt3>Cheeta</alt3>
+	<trivia id="eas008">
+		<type>Easy</type>
+		<question>Which Polish female physicist and chemist was awarded the Nobel Prize for Chemistry in 1911?</question>
+		<ans>Marie Curie</ans>
+		<alt1>Barbara McClintock</alt1>
+		<alt2>Dorothy Hodgkin</alt2>
+		<alt3>Lise Meitner</alt3>
+	<trivia id="eas009">
+		<type>Easy</type>
+		<question>Which of the following Heavyweight Champion Boxers is the only boxer to win more "Heavyweight Title Fights" than Muhammad Ali?</question>
+		<ans>Joe Louis</ans>
+		<alt1>Floyd Patterson</alt1>
+		<alt2>Rocky Marciano</alt2>
+		<alt3>Mike Tyson</alt3>
+	<trivia id="eas010">
+		<type>Easy</type>
+		<question>What "Die Hard" actor recorded the song "Respect Yourself" in 1987?</question>
+		<ans>Bruce Willis</ans>
+		<alt1>Arnold Schwarzenegger</alt1>
+		<alt2>Sylvester Stallone</alt2>
+		<alt3>Jason Statham</alt3>
+	<trivia id="eas011">
+		<type>Easy</type>
+		<question>Disputably, history's most infamous serial killer, what unidentified individual murdered at least five prostitutes in London in 1888?</question>
+		<ans>Jack the Ripper</ans>
+		<alt1>The Phantom Killer</alt1>
+		<alt2>The Night Prowler</alt2>
+		<alt3>The Zodiac</alt3>
+	<trivia id="eas012">
+		<type>Easy</type>
+		<question>Which DC Comics superhero has a sidekick named Robin?</question>
+		<ans>Batman</ans>
+		<alt1>Spider-Man</alt1>
+		<alt2>Green Lantern</alt2>
+		<alt3>Captain America</alt3>
+	<trivia id="eas013">
+		<type>Easy</type>
+		<question>What prehistoric monument is located in Wiltshire, England?</question>
+		<ans>Stonehenge</ans>
+		<alt1>Gobekli Tepe</alt1>
+		<alt2>The Olmec Heads</alt2>
+		<alt3>Moai</alt3>
+	<trivia id="eas014">
+		<type>Easy</type>
+		<question>Which of the following melons is the largest member of the melon family?</question>
+		<ans>Watermelon</ans>
+		<alt1>Cantaloupe</alt1>
+		<alt2>Muskmelon</alt2>
+		<alt3>Honeydew</alt3>
+	<trivia id="eas015">
+		<type>Easy</type>
+		<question>The Beatles made their U.S. TV debut on what popular variety show in 1964?</question>
+		<ans>The Ed Sullivan Show</ans>
+		<alt1>The Lawrence Welk Show</alt1>
+		<alt2>Saturday Night Live</alt2>
+		<alt3>The Hollywood Palace</alt3>
+			<trivia id="eas016">
+		<type>Easy</type>
+		<question>Dr. John Watson is friend and assistant to which British detective?</question>
+		<ans>Sherlock Holmes</ans>
+		<alt1>Philip Marlowe</alt1>
+		<alt2>Inspector Clouseau</alt2>
+		<alt3>Sam Spade</alt3>
+	<trivia id="eas017">
+		<type>Easy</type>
+		<question>What Roman general and statesman said, "Veni, vidi, vici" (I came, I saw, I conquered)?</question>
+		<ans>Julius Caesar</ans>
+		<alt1>Cornelius Fuscus</alt1>
+		<alt2>Tiberius Nero</alt2>
+		<alt3>Fabius Maximus</alt3>
+	<trivia id="eas018">
+		<type>Easy</type>
+		<question>Ozzy Osbourne started his musical career with which hard rock band?</question>
+		<ans>Black Sabbath</ans>
+		<alt1>Megadeth</alt1>
+		<alt2>Deep Purple</alt2>
+		<alt3>Iron Maiden</alt3>
+	<trivia id="eas019">
+		<type>Easy</type>
+		<question>Bones, Scotty and Chekov were all characters on which popular 1960s TV series created by Gene Roddenberry?</question>
+		<ans>Star Trek</ans>
+		<alt1>Battlestar Galactica</alt1>
+		<alt2>Firefly</alt2>
+		<alt3>Babylon 5</alt3>
+	<trivia id="eas020">
+		<type>Easy</type>
+		<question>Where does the Wizard of Oz live?</question>
+		<ans>The Emerald City</ans>
+		<alt1>Kansas</alt1>
+		<alt2>The Golden City</alt2>
+		<alt3>Munchkin Country</alt3>
+	<trivia id="eas021">
+		<type>Easy</type>
+		<question>The story of a family surviving on an island after being shipwrecked is told in which of the following novels?</question>
+		<ans>Swiss Family Robinson</ans>
+		<alt1>Treasure Island</alt1>
+		<alt2>The Coral Island</alt2>
+		<alt3>The Mysterious Island</alt3>
+	<trivia id="eas022">
+		<type>Easy</type>
+		<question>Water is made up of which two elements?</question>
+		<ans>Hydrogen and Oxygen</ans>
+		<alt1>Nitrogen and Oxygen</alt1>
+		<alt2>Carbon and Oxygen</alt2>
+		<alt3>Helium and Oxygen</alt3>
+	<trivia id="eas023">
+		<type>Easy</type>
+		<question>Which bird can often be seen in the Peanuts comic strip?</question>
+		<ans>Woodstock</ans>
+		<alt1>Tweety</alt1>
+		<alt2>Heckle</alt2>
+		<alt3>Big Bird</alt3>
+	<trivia id="eas024">
+		<type>Easy</type>
+		<question>Which of the following classic novels was written by Bram Stoker?</question>
+		<ans>Dracula</ans>
+		<alt1>Lord of the Flies</alt1>
+		<alt2>Brave New World</alt2>
+		<alt3>Moby-Dick</alt3>
+	<trivia id="eas025">
+		<type>Easy</type>
+		<question>The American animated film "Fantasia" was produced by?</question>
+		<ans>Walt Disney</ans>
+		<alt1>20th Century Fox</alt1>
+		<alt2>Universal Studios</alt2>
+		<alt3>DreamWorks Animation</alt3>
+	<trivia id="eas026">
+		<type>Easy</type>
+		<question>What is the capital of Iraq?</question>
+		<ans>Baghdad</ans>
+		<alt1>Damascus</alt1>
+		<alt2>New Delhi</alt2>
+		<alt3>Tehran</alt3>
+	<trivia id="eas027">
+		<type>Easy</type>
+		<question>Prince's hit song, "When Doves Cry" can be heard in which of the following American rock musical films?</question>
+		<ans>Purple Rain</ans>
+		<alt1>Xanadu</alt1>
+		<alt2>Grease</alt2>
+		<alt3>Hair</alt3>
+	<trivia id="eas028">
+		<type>Easy</type>
+		<question>The giant radioactive monster Godzilla comes from which country?</question>
+		<ans>Japan</ans>
+		<alt1>Germany</alt1>
+		<alt2>China</alt2>
+		<alt3>England</alt3>
+	<trivia id="eas029">
+		<type>Easy</type>
+		<question>Which of the following females was one of Clark Kent's girlfriends?</question>
+		<ans>Lois Lane</ans>
+		<alt1>Gwen Stacy</alt1>
+		<alt2>Julie Madison</alt2>
+		<alt3>Mary Jane Watson</alt3>
+	<trivia id="eas030">
+		<type>Easy</type>
+		<question>On which popular TV sitcom from the seventies would you see the kids Marcia, Jan, Cindy, Greg, Peter and Bobby?</question>
+		<ans>The Brady Bunch</ans>
+		<alt1>All in the Family</alt1>
+		<alt2>The Partridge Family</alt2>
+		<alt3>Happy Days</alt3>
+</easy>
+

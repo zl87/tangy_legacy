@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: tangy_description
+    relative_path: urdf/tangymodel.urdf
+  SRDF:
+    relative_path: config/tangy.srdf
+  CONFIG:
+    generated_timestamp: 1383939648

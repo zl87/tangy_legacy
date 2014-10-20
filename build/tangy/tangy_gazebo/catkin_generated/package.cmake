@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "tangy_gazebo")
+set(tangy_gazebo_MAINTAINER "tangy-user <tangy-user@todo.todo>")
+set(tangy_gazebo_DEPRECATED "")
+set(tangy_gazebo_VERSION "0.0.0")
+set(tangy_gazebo_BUILD_DEPENDS "gazebo_ros" "roscpp" "rospy" "std_msgs")
+set(tangy_gazebo_RUN_DEPENDS "gazebo_ros" "roscpp" "rospy" "std_msgs")
+set(tangy_gazebo_BUILDTOOL_DEPENDS "catkin")

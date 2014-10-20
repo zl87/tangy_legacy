@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "tangy_description")
+set(tangy_description_MAINTAINER "tangy-user <tangy-user@todo.todo>")
+set(tangy_description_DEPRECATED "")
+set(tangy_description_VERSION "0.0.0")
+set(tangy_description_BUILD_DEPENDS "pr2_description" "roscpp" "rospy")
+set(tangy_description_RUN_DEPENDS "pr2_description" "roscpp" "rospy")
+set(tangy_description_BUILDTOOL_DEPENDS "catkin")

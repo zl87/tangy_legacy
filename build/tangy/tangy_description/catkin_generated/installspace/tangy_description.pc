@@ -1,0 +1,8 @@
+prefix=/home/tangy-user/catkin_ws/install
+
+Name: tangy_description
+Description: Description of tangy_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tangy-user/catkin_ws/install/lib 
+Requires: 
